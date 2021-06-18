@@ -131,3 +131,6 @@ Just like learning any new language, you need to get to grips with the:
 understand
 
 • **Syntax**: How you put those words together to create instructions computers can follow .
+
+
+[Duckett](https://slack-files.com/files-pri-safe/TNGRRLUMA-F0263V3S9J4/javascript_and_jquery__interactive_front-end_web_development_.pdf?c=1624027946-dd32dd0afa631c65)
