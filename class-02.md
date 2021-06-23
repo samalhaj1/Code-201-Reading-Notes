@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Structural markup:
 
 ● the elements that you can use to describe both headings and paragraphs
@@ -42,5 +42,5 @@ To create a break between themes — such as a change of topic in a book or a ne
 
 There are a few elements that do not have any words between an opening and closing tag. They are known as empty elementsand they are written differently.
 =======
->>>>>>> 8ab529f3f5fbc85d1e9971dae4057ccb3b4e857d
+
 
