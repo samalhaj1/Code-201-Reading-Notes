@@ -17,7 +17,7 @@
 |2.      |[Ducket HTML](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/read-01.md)|
 |3.      |[Basics of HTML, CSS & JS](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/class-02.md)|
 |4.      |[HTML Lists](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/read03.md)|
-|5.      |[Links](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/Reado4.md)|
+|5.      |[HTML Links, CSS Layout, JS Functions](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/Reado4.md)|
 |6.      |[Images,Colors](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/read-05.md)| 
 |7.      |[JAVASCRIPT & JQUERY](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/duckettjs.md)|
 
