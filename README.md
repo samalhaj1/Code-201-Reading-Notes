@@ -20,6 +20,8 @@
 |5.      |[HTML Links, CSS Layout, JS Functions](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/Reado4.md)|
 |6.      |[HTML Images; CSS Color & Text](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/read-05.md)| 
 |7.      |[JAVASCRIPT & JQUERY](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/duckettjs.md)|
+|8.      |[JS Object Literals](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/Literals.md)|
+
 
 
 
