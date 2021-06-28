@@ -1,4 +1,4 @@
-# Understanding The Problem Domain Is The Hardest Part Of Programming
+# Understanding The Problem Domain Is The Hardest Part Of Programming 
 
 ## What is the hardest thing about writing code?
 
