@@ -23,6 +23,7 @@
 |8.      |[JS Object Literals](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/JS%20Object%20Literals.md)|
 |9.      |[Js Methods](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/read-07.md)
 |10.     |[More Css Layout]( https://samalhaj1.github.io/Code-201-Reading-Notes/class-08)
+|11.     |[Forms and Events](https://samalhaj1.github.io/Code-201-Reading-Notes/read-9)
 
 
 
