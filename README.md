@@ -14,13 +14,13 @@
 |class  |The Content |
 |--------|-------------|
 |1.      |[Home](https://samalhaj1.github.io/Code-201-Reading-Notes/)|
-|2.      |[Ducket HTML](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/read-01.md)|
-|3.      |[Basics of HTML, CSS & JS](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/class-02.md)|
-|4.      |[HTML Lists](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/read03.md)|
-|5.      |[HTML Links, CSS Layout, JS Functions](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/Reado4.md)|
-|6.      |[HTML Images; CSS Color & Text](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/read-05.md)| 
-|7.      |[JAVASCRIPT & JQUERY](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/duckettjs.md)|
-|8.      |[JS Object Literals](https://github.com/samalhaj1/Code-201-Reading-Notes/blob/main/JS%20Object%20Literals.md)|
+|2.      |[Ducket HTML](https://samalhaj1.github.io/Code-201-Reading-Notes/read-01)|
+|3.      |[Basics of HTML, CSS & JS](https://samalhaj1.github.io/Code-201-Reading-Notes/class-02)|
+|4.      |[HTML Lists](https://samalhaj1.github.io/Code-201-Reading-Notes/read03)|
+|5.      |[HTML Links, CSS Layout, JS Functions](https://samalhaj1.github.io/Code-201-Reading-Notes/Reado4)|
+|6.      |[HTML Images; CSS Color & Text](https://samalhaj1.github.io/Code-201-Reading-Notes/read-05)| 
+|7.      |[JAVASCRIPT & JQUERY](https://samalhaj1.github.io/Code-201-Reading-Notes/duckettjs)|
+|8.      |[JS Object Literals](https://samalhaj1.github.io/Code-201-Reading-Notes/Literals)|
 |9.      |[Js Methods](https://samalhaj1.github.io/Code-201-Reading-Notes//read-07)
 |10.     |[More Css Layout]( https://samalhaj1.github.io/Code-201-Reading-Notes/class-08)
 |11.     |[Forms and Events](https://samalhaj1.github.io/Code-201-Reading-Notes/read-9)
