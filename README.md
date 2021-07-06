@@ -27,6 +27,7 @@
 |12.     |[Error Handling and Debugging](https://samalhaj1.github.io/Code-201-Reading-Notes/class-10)
 |13.     |[style imeges in css](https://samalhaj1.github.io/Code-201-Reading-Notes/read11)
 |14.     |[Chart.js](https://samalhaj1.github.io/Code-201-Reading-Notes/read-12)
+|15.     |[HTML5](https://samalhaj1.github.io/Code-201-Reading-Notes/read-13)
 
 
 
