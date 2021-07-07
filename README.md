@@ -28,6 +28,7 @@
 |13.     |[style imeges in css](https://samalhaj1.github.io/Code-201-Reading-Notes/read11)
 |14.     |[Chart.js](https://samalhaj1.github.io/Code-201-Reading-Notes/read-12)
 |15.     |[HTML5](https://samalhaj1.github.io/Code-201-Reading-Notes/read-13)
+|16.     |[CSS Animation](https://samalhaj1.github.io/Code-201-Reading-Notes/read-14)
 
 
 
